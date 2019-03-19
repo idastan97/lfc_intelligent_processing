@@ -1,0 +1,115 @@
+gender,freq_city,freq_country,freq_chl,freq_cwc,freq_wc,trav_country,trav_chl,trav_cwc,trav_wc,whole_high,freq_tv,freq_pc,freq_tabl,frec_cell,stats,alone_together,freq_with_friends,freq_with_rel,freq_alone,freq_home,freq_friends,freq_rel,freq_stad,freq_bar,freq_food,freq_nonalc,freq_alc,paraphenalia,bets,bets_win,emotions,d_cornerk,d_save,d_freek,d_goal,d_assist,d_foul,d_penalty,d_offside,d_steal,d_fight,a_offside,a_penalty,a_cornerk,a_oppscore,a_wescore
+Female,1,1,3,3,3,3,4,2,4,'Whole game',2,4,1,1,4,Alone,1,2,4,4,1,2,2,1,2,2,2,1,0,2.225,1,5,5,4,5,3,5,5,3,2,2,Defenders,Attacker,Defenders,Defenders,Attacker
+Male,1,1,4,4,4,1,5,5,5,'Whole game',2,3,1,1,3,Together,4,2,1,3,3,2,2,4,3,2,3,1,1,2,1,4,4,5,5,5,4,5,4,4,5,Defenders,Attacker,Ball,Attacker,Attacker
+Male,1,2,3,2,4,1,2,1,4,'Whole game',3,3,1,2,4,Together,3,1,3,4,3,1,2,2,2,2,2,0,1,2,0,5,5,5,5,5,4,5,5,4,5,Attacker,Attacker,Ball,Attacker,Attacker
+Male,1,2,4,2,4,2,5,2,5,'Whole game',3,4,4,3,4,Together,4,4,2,4,4,3,2,2,3,3,1,1,1,3,1,3,4,5,5,5,4,5,2,4,5,Attacker,Goalkeeper,Defenders,Defenders,Attacker
+Male,1,2,4,4,4,4,5,5,5,'Whole game',3,3,3,3,4,Together,3,2,4,3,2,2,3,1,3,3,1,0,0,2.225,1,4,5,5,5,5,3,5,5,3,5,Attacker,Attacker,Defenders,Defenders,Defenders
+Male,1,2,4,4,4,3,5,5,5,'Whole game',2,4,1,4,4,NP,3,1,4,4,2,1,2,1,2,1,1,1,1,3,1,3,3,3,5,5,3,3,3,3,3,Attacker,Attacker,Defenders,Attacker,Attacker
+Male,1,1,4,4,4,1,5,5,5,'Whole game',2,4,4,4,4,NP,4,2,4,4,2,2,2,2,4,4,1,1,0,2.225,1,1,1,1,5,5,1,5,1,1,1,Attacker,Attacker,Defenders,Attacker,Attacker
+Male,2,2,4,2,4,1,5,2,5,'Whole game',2,4,2,1,3,Together,4,2,2,4,2,1,2,1,4,4,1,1,1,3,1,4,4,5,5,4,3,5,2,3,3,Attacker,Ball,Goalkeeper,Attacker,Defenders
+Male,1,1,3,1,2,1,5,1,4,Highlights,3,3,1,1,3,Together,3,3,2,3,3,3,2,1,3,3,1,1,0,2.225,1,2,5,4,5,5,3,4,2,1,3,Defenders,Ball,Ball,Defenders,Attacker
+Female,1,2,3,3,3,4,5,3,5,NP,4,3,1,2,3,Together,2,2,3,3,2,2,2,1,2,3,1,1,0,2.225,0,5,5,5,5,5,5,5,4,4,5,Defenders,Attacker,Defenders,Goalkeeper,Goalkeeper
+Male,1,1,2,2,3,1,1,1,5,NP,3,2,1,1,2,Together,2,4,1,3,1,1,1,3,2,3,2,1,0,2.225,1,3,4,4,5,3,2,5,4,2,1,Defenders,Ball,Attacker,Defenders,Attacker
+Male,2,2,4,4,4,1,5,5,5,'Whole game',2,4,2,2,4,Together,4,2,3,4,2,2,2,2,2,2,2,1,0,2.225,1,3,5,2,5,5,3,3,1,4,3,Attacker,Goalkeeper,Attacker,Attacker,Goalkeeper
+Male,1,3,4,2,4,2,5,2,5,NP,3,4,1,1,3,Alone,3,2,3,4,3,2,3,2,3,3,1,1,1,2,1,2,4,4,5,5,3,4,3,4,5,Defenders,Goalkeeper,Defenders,Defenders,Goalkeeper
+Male,2,2,4,4,4,3,5,4,5,'Whole game',3,4,1,2,4,NP,3,2,3,4,2,1,2,1,3,3,1,1,0,2.225,1,5,5,5,5,5,5,5,5,4,5,Attacker,Ball,Ball,Defenders,Attacker
+Male,1,2,4,2,4,1,5,2,5,NP,2,3,3,3,4,Together,4,1,3,4,2,2,2,2,4,4,1,1,0,2.225,1,2,3,4,5,5,5,5,5,4,5,Defenders,Attacker,Attacker,Attacker,Attacker
+Male,1,1,4,2,4,1,4,1,4,'Whole game',2,4,1,3,4,NP,4,2,4,4,2,1,1,3,3,4,4,1,1,3,1,3,3,3,4,4,2,2,1,1,3,Defenders,Attacker,Attacker,Attacker,Defenders
+Male,1,1,4,1,4,5,5,1,4,'Whole game',2,4,1,2,3,NP,3,2,4,4,2,2,2,2,3,3,1,1,0,2.225,1,3,5,4,5,5,1,1,1,2,3,Attacker,Ball,Attacker,Attacker,Defenders
+Male,1,1,4,2,4,1,5,5,5,'Whole game',2,4,1,2,4,Together,4,2,2,4,2,2,2,1,2,2,2,1,0,2.225,1,5,5,5,5,5,4,5,5,5,5,Attacker,Ball,Defenders,Attacker,Attacker
+Male,1,3,3,1,4,3,5,1,5,'Whole game',2,4,1,2,4,NP,2,2,4,4,2,2,2,1,3,3,2,1,1,3,1,3,5,5,5,5,4,4,4,3,4,Attacker,Goalkeeper,Defenders,Attacker,Attacker
+Male,1,1,2,1,3,1,4,1,4,Highlights,2,3,1,2,3,Together,2,3,3,3,1,2,2,1,3,2,1,0,0,2.225,1,3,4,3,4,3,3,4,2,2,3,Attacker,Ball,Goalkeeper,Goalkeeper,Goalkeeper
+Male,2,2,3,3,3,2,5,3,5,'Whole game',3,3,1,2,3,Together,3,2,2,3,3,1,2,3,3,3,1.432432,1,0,2.225,1,3,5,5,5,5,5,4,3,4,5,Attacker,Attacker,Attacker,Defenders,Attacker
+Male,2,3,4,3,4,3,5,2,5,'Whole game',3,4,3,3,4,Together,4,2,3,3,3,1,3,3,4,4,1.432432,1,1,3,1,2,4,4,5,5,2,3,2,2,4,Attacker,Attacker,Defenders,Attacker,Attacker
+Male,2,4,4,4,4,2,3,2,2,'Whole game',4,4,1,3,3,Together,4,3,1,3,4,1,2,4,2,1,2,1,1,3,1,2,5,5,5,5,2,4,3,4,5,Attacker,Goalkeeper,Attacker,Attacker,Defenders
+Male,2,3,3,3,3,1,1,1,2,'Whole game',4,3,1,1,2,Together,4,1,1,3,3,2,2,1,2,2,1,0,1,2,1,1,1,1,1,1,1,1,2,2,2,Attacker,Goalkeeper,Defenders,Defenders,Defenders
+Male,1,2,4,2,4,1,5,2,5,'Whole game',4,4,1,1,4,Together,3,3,3,4,2,3,2,3,3,4,2,1,1,3,1,5,5,5,5,5,5,5,5,4,4,Attacker,Goalkeeper,Goalkeeper,Ball,Ball
+Male,1,1,3,3,3,1,5,5,5,'Whole game',2,4,2,2,4,NP,3,1,3,3,3,1,2,1,2,3,2,0,0,2.225,0,3,3,4,5,3,2,5,1,2,1,Attacker,Attacker,Ball,Ball,Ball
+Male,1,1,2,2,2,1,1,1,1,NP,2,2,1,1,1,NP,1,2,1,2,2,2,2,1,3,3,1,1,0,2.225,1,3,4,5,5,5,5,4,5,5,5,Ball,Ball,Ball,Ball,Attacker
+Male,2,2,4,2,4,2,4,3,5,Highlights,2,4,1,2,4,Together,4,2,2,3,3,2,2,2,3,3,1,1,0,1,1,5,5,5,5,5,5,5,5,5,5,Attacker,Ball,Attacker,Defenders,Attacker
+Male,1,1,4,2,4,1,5,3,5,'Whole game',2,4,2,2,4,NP,4,1,4,4,2,2,2,2,3,3,1.432432,1,1,4,0,5,5,5,5,5,5,5,5,5,5,Defenders,Goalkeeper,Defenders,Attacker,Defenders
+Male,2,2,4,2,4,1,5,3,5,'Whole game',3,3,2,2,3,NP,3,2,3,3,3,2,2,1,3,3,1,1,1,3,0,3,2,2,1,2,4,1,4,3,1,Defenders,Attacker,Defenders,Attacker,Attacker
+Male,1,2,3,1,4,1,4,1,4,'Whole game',3,3,1,1,4,NP,2,3,4,4,2,2,2,1,2,2,1,1,1,2,0,4,4,4,4,4,4,4,4,4,4,Defenders,Ball,Attacker,Goalkeeper,Goalkeeper
+Male,2,4,4,2,4,5,5,5,5,'Whole game',3,4,1,3,4,Together,3,2,3,4,2,2,3,1,3,3,1,1,0,2.225,1,3,5,5,5,5,3,4,2,4,3,Ball,Goalkeeper,Defenders,Defenders,Attacker
+Male,1,2,1,1,1,2,5,4,5,'Whole game',3,3,2,2,2,NP,2,3,2,3,1,2,2,1,3,3,1,1,0,2.225,1,4,4,5,5,5,4,5,4,4,4,Attacker,Ball,Ball,Defenders,Ball
+Male,1,2,4,3,4,2,4,3,4,'Whole game',4,4,1,1,4,Together,3,3,4,4,3,2,1,2,4,4,3,1,0,2.225,0,3,4,4,5,5,4,5,3,2,4,Attacker,Attacker,Attacker,Attacker,Attacker
+Male,1,3,4,3,4,1,5,3,5,'Whole game',3,4,1,1,4,Together,4,4,2,4,4,4,3,2,2,3,1,1,0,2.225,1,4,5,4,5,5,4,5,4,5,3,Defenders,Attacker,Defenders,Attacker,Defenders
+Male,2,2,4,1,4,1,5,1,5,'Whole game',3,3,1,1,4,NP,3,2,3,4,3,2,2,2,3,3,2,1,0,2.225,1,5,5,5,5,5,3,5,3,4,1,Defenders,Attacker,Attacker,Defenders,Attacker
+Male,1,2,3,2,4,3,4,2,5,'Whole game',2,4,1,1,4,Together,4,2,3,4,2,2,2,2,2,3,2,1,1,3,1,3,4,3,5,5,3,5,3,2,1,Attacker,Goalkeeper,Attacker,Defenders,Attacker
+Male,1,1,4,2,4,1,5,3,5,'Whole game',3,3,1,1,3,NP,3,2,3,3,3,1,2,2,3,3,2,1,0,2.225,1,5,5,5,5,5,5,5,5,5,5,Attacker,Attacker,Attacker,Attacker,Attacker
+Male,1,2,3,1,3,2,5,1,4,'Whole game',3,3,1,1,3,NP,2,2,3,4,2,2,2,2,2,2,1,1,1,2,1,4,5,5,5,4,5,5,5,4,4,Attacker,Ball,Ball,Ball,Ball
+Male,1,2,3,2,4,1,1,1,5,'Whole game',1,4,1,1,4,Alone,2,1,4,4,1,2,2,2,3,3,2,1,0,2.225,1,2,4,4,5,5,2,2,1,1,2,Defenders,Ball,Goalkeeper,Ball,Defenders
+Male,2,2,2,2,2,1,1,1,1,Highlights,4,4,3,4,2,Together,3,3,2,3,2,2,2,1,3,3,1,0,0,2.225,0,4,5,4,5,4,3,5,2,1,1,Attacker,Ball,Ball,Attacker,Goalkeeper
+Male,2,4,4,4,4,2,5,5,5,NP,4,2,2,2,4,Together,2,4,2,4,2,4,1,1,3,1,3,1,0,2.225,1,4,4,5,5,5,3,5,5,5,3,Attacker,Goalkeeper,Attacker,Attacker,Ball
+Male,1,2,4,4,4,2,5,5,5,'Whole game',3,3,1,2,4,NP,2,2,3,3,2,2,2,1,3,3,1,1,0,2.225,1,3,4,4,5,5,2,2,1,5,3,Defenders,Goalkeeper,Attacker,Defenders,Attacker
+Male,4,4,3,2,3,2,2,2,2,'Whole game',4,3,1,3,4,NP,2,4,4,4,1,2,2,1,2,1,1,1,0,2.225,1,2,3,4,5,5,5,5,5,3,3,Attacker,Attacker,Attacker,Attacker,Attacker
+Male,1,1,3,1,3,1,5,1,5,NP,2,4,3,1,3,NP,2,2,3,3,2,2,1,1,4,4,3,1,0,1,1,2,4,4,5,5,1,3,1,4,1,Defenders,Goalkeeper,Attacker,Attacker,Goalkeeper
+Male,2,2,4,2,4,3,5,5,5,'Whole game',2,4,1,2,2,Together,4,2,3,3,2,2,2,3,4,4,3,1,0,2.225,1,5,5,5,5,5,5,5,3,3,5,Defenders,Attacker,Attacker,Defenders,Attacker
+Male,1,2,4,4,4,4,5,5,5,'Whole game',1,4,1,3,3,NP,3,1,4,4,2,2,3,2,3,3,1,1,0,2.225,1,5,5,5,5,5,5,5,5,5,5,Defenders,Ball,Attacker,Defenders,Attacker
+Female,1,4,4,4,4,5,5,5,5,'Whole game',4,4,1,4,4,NP,2,4,3,4,1,4,4,1,2,3,1,1,0,2.225,1,5,5,5,5,5,3,5,4,3,3,Defenders,Attacker,Attacker,Defenders,Goalkeeper
+Male,2,2,2,2,2,4,5,5,5,Highlights,2,4,2,2,2,Together,4,2,2,2,2,2,2,2,2,2,2,1,0,2.225,1,1,1,1,1,1,1,5,1,1,1,Ball,Defenders,Attacker,Attacker,Goalkeeper
+Male,1,1,3,1,3,1,5,2,5,'Whole game',2,3,1,2,4,NP,2,2,3,3,2,2,2,1,2,2,2,1,1,2,1,3,5,5,5,5,3,4,3,3,4,Defenders,Attacker,Attacker,Ball,Ball
+Male,2,2,3,1,4,2,4,1,5,Highlights,2,3,1,3,4,Together,2,1,3,3,2,1,2,2,4,3,3,1,0,1,1,2,4,5,5,5,3,5,3,2,5,Attacker,Attacker,Ball,Goalkeeper,Attacker
+Female,1,2,4,2,4,4,5,3,5,'Whole game',4,3,1,1,3,NP,2,2,4,4,1,1,1,2,1,3,2,0,0,2.225,1,4,4,4,5,5,4,4,5,4,3,Attacker,Ball,Attacker,Defenders,Ball
+Male,1,4,4,4,4,3,5,3,5,'Whole game',4,2,1,1,3,NP,4,4,4,4,4,4,2,4,2,3,2,1,0,1,1,5,5,5,5,5,5,5,5,5,5,Attacker,Attacker,Ball,Attacker,Attacker
+Male,1,1,4,4,4,5,5,5,5,'Whole game',4,4,1,1,3,Alone,2,1,4,4,1,1,2,1,4,4,1,1,1,3,1,3,4,5,5,3,3,5,1,1,1,Defenders,Ball,Attacker,Ball,Attacker
+Male,1,3,4,4,4,5,5,5,5,'Whole game',2,4,2,2,4,Together,4,2,4,4,4,2,3,2,4,1,1,1,1,2,1,5,5,5,5,5,5,5,3,3,5,Attacker,Attacker,Ball,Attacker,Goalkeeper
+Female,2,1,2,2,2,2,3,3,3,NP,3,3,1,3,3,NP,3,1,2,3,3,1,3,1,1,2,1,0,0,2.225,0,4,5,5,5,4,3,3,3,3,5,Ball,Attacker,Goalkeeper,Goalkeeper,Attacker
+Male,1,4,4,1,3,2,4,1,4,'Whole game',2,4,1,2,4,Alone,2,1,4,4,1,1,2,1,3,3,1,0,0,2.225,1,3,5,3,5,5,4,5,4,3,5,Defenders,Attacker,Defenders,Defenders,Defenders
+Male,1,2,4,2,4,1,4,4,4,Highlights,2,4,2,2,3,NP,2,3,3,3,2,2,2,3,3,3,2,1,0,2.225,1,2,2,2,5,3,3,4,3,3,3,Attacker,Goalkeeper,Attacker,Attacker,Defenders
+Male,1,2,4,3,3,1,5,5,5,Highlights,2,4,1,1,4,Together,2,1,4,4,1,1,2,2,3,2,2,1,1,2,1,5,5,5,5,5,1,2,1,1,5,Attacker,Attacker,Attacker,Attacker,Goalkeeper
+Female,2,2,4,4,4,3,5,4,5,'Whole game',4,3,1,2,4,NP,3,3,3,4,2,3,2,1,3,4,1,1,0,2.225,1,4,4,4,5,5,5,5,4,5,5,Defenders,Ball,Defenders,Attacker,Attacker
+Female,1,1,3,1,3,1,1,1,3,NP,3,2,1,1,2,Together,3,3,2,3,3,1,2,2,3,3,1,0,1,2,0,1,3,1,3,3,1,2,1,3,1,Ball,Goalkeeper,Attacker,Defenders,Attacker
+Female,1,2,3,3,3,3,5,5,4,'Whole game',2,3,1,1,3,NP,3,2,3,3,1,1,2,2,3,3,1,0,0,2.225,1,4,3,3,5,3,3,5,4,3,2,Defenders,Attacker,Ball,Goalkeeper,Defenders
+Female,1,1,3,3,4,3,5,3,5,'Whole game',3,3,1,2,3,Together,3,2,3,3,2,2,1,3,3,3,1,1,0,2.225,1,5,5,5,5,5,5,5,5,5,5,Ball,Attacker,Attacker,Defenders,Attacker
+Female,1,1,3,1,3,1,3,1,3,'Whole game',3,3,3,3,3,Together,1,4,4,4,1,1,1,1,2,3,1,1,1,3,1,5,5,5,5,5,5,5,5,5,5,Attacker,Attacker,Defenders,Attacker,Goalkeeper
+Female,2,2,4,4,4,2,5,5,5,'Whole game',4,1,1,1,3,Together,1,4,1,4,1,1,1,1,2,3,1,1,0,2.225,0,5,4,2,5,4,1,3,3,5,1,Attacker,Goalkeeper,Defenders,Ball,Defenders
+Female,1,2,3,3,3,3,3,3,3,'Whole game',2,3,3,1,2,Alone,2,2,3,3,2,1,2,1,3,3,1,1,0,2.225,1,3,5,4,5,4,3,5,4,3,3,Goalkeeper,Goalkeeper,Goalkeeper,Attacker,Attacker
+Female,1,2,3,3,2,2,5,5,5,'Whole game',3,2,1,2,4,NP,3,2,4,3,2,2,2,1,1,2,1,1,1,2.225,1,3,5,4,5,3,3,4,2,3,2,Ball,Attacker,Ball,Goalkeeper,Ball
+Female,1,2,3,1,4,3,4,3,4,NP,2,4,1,2,3,Together,3,3,2,2,3,2,2,2,3,3,1,1,0,2.225,1,2,2,3,5,4,4,4,3,3,3,Ball,Goalkeeper,Ball,Goalkeeper,Attacker
+Female,1,1,4,4,4,1,5,5,5,'Whole game',4,1,1,1,2,Together,2,4,2,4,2,2,1,2,2,3,2,0,0,2.225,0,4,5,5,5,5,4,5,4,4,5,Attacker,Goalkeeper,Defenders,Defenders,Attacker
+Female,2,3,4,3,3,4,5,5,5,'Whole game',2,4,1,1,3,Together,4,2,3,3,3,1,2,2,2,3,1,1,0,1,1,5,4,4,5,5,3,5,3,3,3,Ball,Goalkeeper,Defenders,Defenders,Attacker
+Female,2,3,2,2,2,5,5,2,5,'Whole game',3,3,1,2,3,Together,3,3,1,2,1,3,3,1,1,2,1,0,0,2.225,1,3,4,2,5,4,3,5,3,4,1,Attacker,Ball,Attacker,Goalkeeper,Goalkeeper
+Female,2,2,3,4,4,2,4,4,5,'Whole game',3,3,2,2,2,NP,2,3,2,3,2,2,3,1,1,1,1,1,0,1,1,4,5,4,5,5,4,5,4,5,5,Ball,Attacker,Attacker,Attacker,Attacker
+Female,2,2,3,3,4,1,5,4,5,NP,4,1,1,2,1,Together,2,4,2,3,3,3,2,2,1,3,3,1,0,2.225,1,2,3,1,5,5,3,5,3,3,1,Attacker,Defenders,Defenders,Goalkeeper,Attacker
+Male,2,3,4,4,4,1,4,1,3,NP,1,3,1,2,2,Alone,4,1,2,3,2,1,1,1,4,4,2,1,0,2.225,1,2,1,2,3,4,5,4,3,2,1,Defenders,Defenders,Defenders,Defenders,Defenders
+Male,1,2,3,1,3,1,4,2,5,'Whole game',2,3,1,2,2,NP,2,3,2,3,1,2,2,1,3,3,1,1,0,2.225,1,4,4,5,5,5,4,5,3,4,4,Defenders,Attacker,Ball,Defenders,Attacker
+Male,1,2,4,3,4,1,5,5,5,NP,4,4,2,2,3,NP,3,2,4,4,2,2,2,2,3,3,1,1,1,2,1,3,5,5,5,5,3,5,3,5,3,Attacker,Attacker,Defenders,Defenders,Attacker
+Male,1,2,3,1,3,2,5,2,4,NP,3,3,1,1,3,NP,2,2,2,3,2,2,2,1,2,2,1,1,0,2.225,1,2,5,3,5,5,3,3,4,1,4,Attacker,Ball,Ball,Goalkeeper,Attacker
+Male,4,3,4,2,4,2,5,4,5,'Whole game',4,3,1,2,4,Together,4,2,2,4,4,1,3,3,4,4,2,1,1,3,1,2,2,3,3,3,2,4,2,2,5,Attacker,Ball,Ball,Attacker,Attacker
+Male,1,1,4,2,3,1,5,3,5,NP,2,4,1,1,3,NP,2,2,4,4,2,2,1,1,1,4,1,1,0,2.225,1,4,5,5,5,5,4,5,3,3,5,Defenders,Ball,Defenders,Defenders,Attacker
+Male,1,2,3,1,4,2,3,1,2,'Whole game',3,3,1,3,4,Alone,2,1,4,4,1,1,2,1,2,1,1,1,0,2.225,1,2,3,4,5,4,4,3,5,2,4,Attacker,Ball,Attacker,Defenders,Attacker
+Male,1,2,4,3,4,1,3,2,4,'Whole game',3,4,2,2,4,NP,3,2,4,4,3,2,2,2,3,4,2,1,1,2,1,3,3,4,4,4,2,3,3,2,2,Defenders,Attacker,Attacker,Defenders,Attacker
+Male,1,2,3,3,3,1,1,1,1,'Whole game',4,3,1,1,2,Together,3,3,2,3,2,2,2,3,2,4,1,1,0,2.225,0,3,3,4,5,4,3,3,2,3,3,Ball,Attacker,Attacker,Attacker,Defenders
+Male,1,2,4,2,4,1,5,5,5,NP,3,4,1,2,4,NP,2,1,3,4,4,1,2,2,3,2,1,1,0,2.225,1,3,5,5,5,5,5,5,5,5,5,Attacker,Attacker,Defenders,Defenders,Attacker
+Male,2,2,4,4,4,5,5,3,5,NP,4,4,1,2,3,NP,3,2,2,4,2,3,2,1,4,4,1,1,1,2,0,2,3,4,5,4,3,5,3,4,4,Attacker,Attacker,Goalkeeper,Attacker,Attacker
+Male,1,1,4,2,4,1,5,2,5,'Whole game',4,4,2,1,4,Alone,2,2,3,3,2,2,1,1,2,2,1,1,0,2.225,1,1,4,4,5,5,3,5,3,2,1,Defenders,Ball,Goalkeeper,Defenders,Attacker
+Male,1,1,3,2,3,1,5,5,5,Highlights,2,4,1,4,3,Together,2,2,4,3,2,2,2,3,2,2,2,1,1,3,1,2,3,4,5,5,4,3,5,4,5,Attacker,Ball,Defenders,Defenders,Attacker
+Female,1,2,4,3,4,1,5,3,5,'Whole game',2,4,1,2,4,Together,3,2,3,4,2,2,2,1,4,4,4,1,0,2.225,1,5,5,5,5,5,5,5,5,5,5,Ball,Goalkeeper,Attacker,Goalkeeper,Attacker
+Male,1,1,4,2,4,1,5,1,5,'Whole game',2,4,1,1,4,NP,3,1,3,4,3,1,1,2,3,4,4,0,1,3,1,3,4,3,5,4,1,3,1,3,2,Attacker,Attacker,Ball,Defenders,Attacker
+Male,2,3,4,2,4,3,5,3,5,'Whole game',3,3,3,1,2,Together,3,3,2,4,3,1,3,2,2,4,1,1,0,2.225,1,5,4,4,5,5,3,4,3,5,5,Attacker,Attacker,Defenders,Attacker,Defenders
+Male,1,3,4,4,4,4,5,4,5,'Whole game',2,4,1,1,4,Together,3,2,2,3,3,2,2,1,4,4,1,1,0,2.225,1,3,4,4,5,4,4,4,4,2,4,Attacker,Attacker,Attacker,Goalkeeper,Attacker
+Male,1,2,3,2,3,1,4,5,5,Highlights,3,4,1,2,2,Alone,2,2,4,3,1,2,2,1,2,3,1,0,1,2,0,3,3,4,5,5,3,5,4,3,2,Ball,Ball,Attacker,Goalkeeper,Attacker
+Female,1,2,3,3,3,3,5,5,5,'Whole game',2,3,1,3,3,NP,1,1,3,4,2,1,2,1,3,3,1,1,0,2.225,1,4,3,4,5,5,4,4,4,3,3,Ball,Defenders,Defenders,Defenders,Attacker
+Male,1,2,4,3,4,4,5,5,5,'Whole game',3,4,1,1,3,NP,3,2,3,4,2,2,2,2,2,3,1,1,0,2.225,1,4,5,5,5,5,3,5,3,4,3,Attacker,Goalkeeper,Defenders,Attacker,Defenders
+Male,1,2,4,4,4,1,5,5,5,'Whole game',4,2,1,2,4,NP,3,2,4,4,2,2,2,1,2,4,1,1,0,2.225,1,5,5,5,5,5,4,3,4,5,3,Attacker,Defenders,Goalkeeper,Defenders,Attacker
+Male,2,1,3,3,4,1,5,5,5,'Whole game',2,4,1,3,2,NP,2,1,3,4,2,1,2,1,3,4,1,0,1,2,1,3,3,4,5,5,2,4,2,2,4,Attacker,Attacker,Defenders,Defenders,Attacker
+Male,1,2,2,1,4,5,5,1,4,NP,3,3,1,2,4,Alone,2,2,4,4,1,1,2,1,3,3,1,0,0,2.225,1,2,3,2,3,2,2,3,2,2,3,Defenders,Goalkeeper,Defenders,Goalkeeper,Attacker
+Male,1,1,4,2,4,1,5,5,5,'Whole game',4,4,2,1,4,Together,3,2,4,4,3,2,1,1,1,4,1,1,1,2,1,4,5,5,5,5,4,5,3,3,4,Attacker,Goalkeeper,Defenders,Defenders,Attacker
+Male,1,2,3,1,4,1,5,1,5,'Whole game',2,4,2,2,4,NP,3,2,3,4,3,2,1,1,4,3,1,1,0,2.225,1,5,5,5,5,5,4,5,4,4,1,Defenders,Defenders,Defenders,Defenders,Attacker
+Male,1,1,3,2,2,2,5,2,5,NP,2,4,1,1,2,Together,2,1,3,3,3,1,2,1,4,3,1,1,0,1,1,4,5,5,5,5,5,4,3,4,5,Defenders,Ball,Defenders,Defenders,Attacker
+Male,1,1,1,1,1,1,1,1,1,NP,1,1,1,1,1,NP,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,Ball,Ball,Ball,Ball,Ball
+Female,1,1,1,1,1,1,1,1,1,NP,3,3,1,1,1,NP,1,1,1,1,1,1,1,1,1,1,1,0,0,2.225,0,1,1,1,1,1,1,1,1,1,1,Attacker,Attacker,Attacker,Ball,Ball
+Male,1,2,4,4,4,1,5,3,5,'Whole game',3,4,1,2,4,NP,3,2,4,4,2,2,2,2,3,3,1,1,0,2.225,1,1,3,4,4,4,2,2,1,2,2,Defenders,Ball,Ball,Ball,Attacker
+Female,1,1,1,1,1,1,5,1,5,NP,3,2,2,2,1,Together,2,2,2,1,1,1,1,1,3,2,1,0,0,2.225,0,1,1,1,1,1,1,1,1,1,1,Attacker,Attacker,Attacker,Attacker,Attacker
+Female,2,2,2,3,3,1,1,1,1,'Whole game',3,2,1,1,2,Alone,1,2,3,3,2,1,2,3,2,3,1,1,0,2.225,1,1,1,1,1,1,1,1,1,1,1,Ball,Ball,Ball,Ball,Ball
+Female,2,1,2,2,2,1,1,1,1,NP,2,1,1,1,1,NP,1,2,1,2,1,1,1,1,2,1,1,0,0,2.225,0,1,1,1,1,1,1,1,1,1,1,Defenders,Attacker,Attacker,Goalkeeper,Attacker
+Female,1,1,1,1,1,1,4,1,4,Highlights,1,3,3,3,1,Together,3,1,1,2,3,1,1,1,1,1,1,0,0,2.225,0,1,1,1,4,1,1,4,1,4,4,Attacker,Attacker,Attacker,Attacker,Attacker
+Female,1,2,2,2,2,1,2,2,3,Highlights,3,2,1,1,1,Together,1,2,1,2,1,1,2,1,3,3,1,0,0,2.225,1,2,1,1,5,2,2,2,2,2,2,Ball,Attacker,Goalkeeper,Attacker,Defenders
+Female,3,2,3,4,4,1,2,3,4,Highlights,2,4,1,1,2,Together,3,4,2,3,1,3,3,2,1,4,1,1,0,2.225,1,2,3,2,3,2,2,3,1,2,1,Attacker,Defenders,Ball,Ball,Ball
+Female,1,1,2,1,2,1,4,1,5,'Whole game',3,2,1,3,1,Together,3,1,1,2,1,1,1,2,4,3,2,0,0,2.225,0,1,1,1,1,1,1,1,1,1,1,Ball,Ball,Ball,Ball,Ball
+Female,2,2,4,3,4,2,5,5,5,'Whole game',2,4,2,2,3,Together,3,3,2,3,2,2,2,1,4,4,1,0,0,2.225,1,5,5,5,5,5,4,5,5,5,5,Defenders,Attacker,Attacker,Goalkeeper,Attacker
+Female,1,2,3,2,3,1,2,2,4,Highlights,4,2,1,1,1,Together,3,3,2,3,3,3,2,2,2,1,1,1,0,2.225,1,4,5,5,5,5,3,4,3,4,2,Defenders,Goalkeeper,Defenders,Defenders,Goalkeeper
+Male,1,4,4,1,4,2,4,1,5,NP,2,4,3,3,4,NP,2,2,3,4,1,1,3,1,2,4,1,1,0,2.225,0,3,5,3,5,5,4,5,4,2,5,Attacker,Attacker,Ball,Goalkeeper,Attacker
+Female,1,2,2,1,1,1,3,3,3,NP,2,1,1,1,1,Together,2,1,1,1,2,1,2,1,2,2,1,0,0,2.225,1,1,1,1,1,1,1,1,1,1,1,Attacker,Attacker,Goalkeeper,Defenders,Attacker
+Male,1,2,3,1,4,1,5,2,5,'Whole game',2,4,1,2,3,Together,3,2,2,4,1,2,3,2,3,3,1,1,0,2.225,1,1,5,5,5,4,4,5,3,3,4,Attacker,Attacker,Defenders,Defenders,Attacker
